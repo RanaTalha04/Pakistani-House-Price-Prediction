@@ -1,2 +1,2 @@
-# Obesity-Prediction-in-Pakistani-Youth
-“A machine learning project that predicts obesity levels among Pakistani youth based on lifestyle, dietary, and physical activity factors, aiming to raise awareness and support early health interventions.”
+# Pakistani-House-Price-Prediction
+“This project uses machine learning to predict house prices in Pakistan based on real estate listings from Zameen.com. The goal is to help estimate property values by analyzing factors such as location, area, bedrooms, bathrooms, and other features.”
